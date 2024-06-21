@@ -1,0 +1,8 @@
+body {
+    background-image: url('1.png');
+    background-size:100px 20px;
+}
+
+.container {
+    /* 这里放置内容容器的样式 */
+}
